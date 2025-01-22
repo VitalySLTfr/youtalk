@@ -28,7 +28,7 @@ html, body { height: 100%; margin: 0; padding: 0;}
     ". mainblock ."
     "footer footer footer";
     justify-content: center;
-    background-image: url(/images/background.svg);
+    background-image: url(images/background.svg);
     background-size: 100%, 672px;
     background-position-y: 401px ;
     background-repeat: no-repeat;
