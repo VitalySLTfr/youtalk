@@ -118,7 +118,7 @@ p{margin-top: 0;}
 .header__line-hr {
     grid-area: hr;
     border: rgba(239, 245, 251, 1) solid 1px;
-    width: 100%;
+    width: 99%;
     margin: 0;
 }
 /* Основной контент*/
