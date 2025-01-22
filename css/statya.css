@@ -35,7 +35,7 @@ body {font-family: montserrat; height: 100%; margin: 0; padding: 0; width: 100%;
     background-repeat: no-repeat;
     background-position-y: 5680px, 2460px, 5269px;
     background-position-x: center, right, right;
-    background-size: 100vw, (686px 606px), (272px 240px);
+    background-size: 100%, (686px 606px), (272px 240px);
     background-size: cover, auto, auto;
 }
 @media screen and (max-width: 1024px){
