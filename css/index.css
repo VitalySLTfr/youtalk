@@ -16,8 +16,8 @@ html, body {
     table{border-collapse:collapse;border-spacing:0}
     hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
     input,select{vertical-align:middle}}
-    body {font-family: montserrat; height: 100%; margin: 0; padding: 0; width: 100%;}
-html, body { height: 100%; margin: 0; padding: 0; }
+body {font-family: montserrat; height: 100%; margin: 0; padding: 0; width: 100%;}
+html, body { height: 100%; margin: 0; padding: 0;}
 .layout {
     display: grid;
     grid-template-columns: minmax(16px, auto) minmax(288px, 1200px) minmax(16px, auto);
@@ -28,12 +28,10 @@ html, body { height: 100%; margin: 0; padding: 0; }
     ". mainblock ."
     "footer footer footer";
     justify-content: center;
-    background-image: url(/background.svg);
+    background-image: url(/images/background.svg);
     background-size: 100%, 672px;
     background-position-y: 401px ;
     background-repeat: no-repeat;
-    margin: 0;
-    padding: 0;
 }
 @media screen and (max-width: 1024px){
     .layout {
